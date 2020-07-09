@@ -1,6 +1,6 @@
 # [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/gh-bannner.png)](https://waylonwalker.com)
 <p align='center'>
-<a href="https://dev.to/waylonwalker"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/master/icon/dev.png"></a>&nbsp;&nbsp;
+<a href="https://dev.to/waylonwalker"><img height="30" src="https://img.shields.io/badge/WHATSAPP-SEND%20ME%20A%20MESSAGE-%2325D366.svg?&style=for-the-badge&logo=whatsapp"></a>&nbsp;&nbsp;
 <a href="https://twitter/_waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://instagram/waylonwalker"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.buymeacoffee.com/bBdtMQO"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/master/icon/by-me-a-coffee.png?raw=true"></a>
