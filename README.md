@@ -24,3 +24,12 @@ I write regular blog posts, most of which you will find on my personal website [
 I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
 [Latest Post 👉](https://waylonwalker.com/latest)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=alexandresanlim)](https://github.com/anuraghazra/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alexandresanlim&repo=XamarinUI.MyGallery)](https://github.com/alexandresanlim/XamarinUI.MyGallery)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github.com/anuraghazra/github-readme-stats
